@@ -1,0 +1,5 @@
+{{#user}
+Name: Pratik Barai
+Skills: C, HTML, PYTHON
+Email: pratikbarainda@gmail.com
+{{/user}}
